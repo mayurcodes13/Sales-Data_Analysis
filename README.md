@@ -5,10 +5,30 @@ As the initial step in my data analytics internship at IBM-AICTE, I proudly pres
 # Key Measures
 • Total Sales
 
-• Total Qty Ordered
+• Total Profit by Region and Segment
 
-• Total Cost
+• Sales Trend over Time
 
-• Profit Margin
+• Profit vs. Sales
 
-• Profit Margin %
+• Proportion of Sales by Region
+
+• Profit by Category
+
+
+# Key Metrics
+• Total Sales
+
+• Profit by Category
+
+• Proportion of Sales by Region
+
+
+# Key Insights Derived
+1. Technology sector has gained highest profit.
+2. Sales in the West region were the most amongst all.
+3. Sales were exponentially growing over the period of time.
+
+# Technology Used
+Jupyter Notebook
+Python ( NumPy, Pandas, Matplotlib, Seaborn )
