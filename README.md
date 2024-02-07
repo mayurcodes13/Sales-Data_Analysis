@@ -31,4 +31,5 @@ As the initial step in my data analytics internship at IBM-AICTE, I proudly pres
 
 # Technology Used
 Jupyter Notebook
+
 Python ( NumPy, Pandas, Matplotlib, Seaborn )
